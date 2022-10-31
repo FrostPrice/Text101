@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A1.Prison Cell
+  m_EditorClassIdentifier: 
+  storyText: "You wake up in a dark cell, alone, you're hearing footsteps coming
+    from outside, there is a guard of the dark sentinels. \r\nThe door is closed,
+    but you know how to open it. \r\n\r\nYou have an urge of getting out, you still
+    have something to do.\r\n\r\nHere are the 2 choices:\r\n1. Try to hack the cell
+    door\r\n2. Wait for a guard to come"
+  nextStates:
+  - {fileID: 11400000, guid: b2451e681febe494c8f7de3534c7ec0b, type: 2}
+  - {fileID: 11400000, guid: a0f3fc4be0a0c524fa00d15a26f0f1a8, type: 2}

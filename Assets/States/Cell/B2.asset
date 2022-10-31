@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: "Now you're outside. You hang in the ledge and walk through the roofs.\r\n\r\nThere
+    is a sniper tower, he's going to see you........... \r\n\r\nThink fast:\r\n\r\n1.
+    Try to hide\r\n2. Run in the direction of the tower"
+  nextStates:
+  - {fileID: 11400000, guid: 132ae4d9d3c338748822b65274adce92, type: 2}
+  - {fileID: 11400000, guid: b50538c95a104384995cf6554e1038d2, type: 2}

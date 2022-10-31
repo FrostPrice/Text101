@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A6.GameOver
+  m_EditorClassIdentifier: 
+  storyText: 'You run to the door.........
+
+    
+
+    But the guard is standing
+    really close to it. And since you were focused on running, the guard stabs you,
+    and leave the cell.
+
+    
+
+    Don''t run from your responsibilites
+
+    
+
+    The
+    end
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 907c3bf3e36a49645a3c06627ca5617a, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A0-B.QuickNotes
+  m_EditorClassIdentifier: 
+  storyText: 'Hello! How are you?
+
+
+    First thing I need to say to you is that
+    the story is unfinished.
+
+    I''m learning how to use Unity and the programming
+    language C#. I know this game can be bad :(
+
+    But I''d love to see some recommendations,
+    of what can I do to improve my skill in making games.
+
+    So if you have any
+    thing to say, feel free to do it :)
+
+
+    Thank you for the atention... And have
+    Fun!
+
+
+    1. Continue
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: e3aafa016b01d994696947307d09a9f6, type: 2}

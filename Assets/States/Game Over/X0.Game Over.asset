@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: X0.Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'Well that didn''t seems to be the right choice :(
+
+
+    You failed
+
+
+    But
+    there is still hope:
+
+
+    1. I want to try again, "I shall rise from the ashes!"
+
+
+    2.
+    Nah, I''m satisfied.'
+  nextStates:
+  - {fileID: 11400000, guid: 02ede5a7ff31e224393a600a7c244c3d, type: 2}
+  - {fileID: 11400000, guid: e3aafa016b01d994696947307d09a9f6, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A5
+  m_EditorClassIdentifier: 
+  storyText: 'It worked! The guard is in your cell now. With his sword in his hands.
+
+
+    But
+    you have no weapon.......
+
+
+    What do you do?
+
+
+    1. I was a sentinel, trained
+    to battle, so I fight with my bear hands
+
+    2. You rush through the open door,
+    that the guard entered'
+  nextStates:
+  - {fileID: 11400000, guid: 9c05dbfab65be1a4da4df25974ff9d6f, type: 2}
+  - {fileID: 11400000, guid: 403a1cd3ade536249a1d7ff523c9848f, type: 2}

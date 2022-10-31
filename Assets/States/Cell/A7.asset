@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A7
+  m_EditorClassIdentifier: 
+  storyText: "You go to the medical sector. While there you realize there is nobody
+    here, you take the chance and heal your wounds with some bandages and prepare
+    yourself.\r\n\r\nYou realize that now you need to fight to get out.\r\n\r\nBut
+    are you ready for it?\r\n\r\n1. Yes, I never give up, I still have something
+    to do!\r\r\n2. It would be nice to have some better equipment."
+  nextStates:
+  - {fileID: 11400000, guid: 52c7363c89b4f6048b8ed2e7b4d13dd6, type: 2}
+  - {fileID: 11400000, guid: 52c7363c89b4f6048b8ed2e7b4d13dd6, type: 2}

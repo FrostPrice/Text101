@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: B3
+  m_EditorClassIdentifier: 
+  storyText: 'You starts to run in the direction of the tower. You are fast, you''re
+    trained to battle. You were a sentinel. And the sounds of sirens starts off.
+
+
+    Everyone
+    knows about an escape
+
+    You reach the tower, after evading all shots of the
+    enemy.
+
+
+    You see the main gate, but the sniper is really close.
+
+
+    You
+    options are:
+
+
+    1. Run to the main gate
+
+    2. You still have that pipe,
+    use it to knock the sniper out.'
+  nextStates:
+  - {fileID: 11400000, guid: b50538c95a104384995cf6554e1038d2, type: 2}
+  - {fileID: 11400000, guid: 34a0a96fa482c0c47bc839cce6d8abfa, type: 2}

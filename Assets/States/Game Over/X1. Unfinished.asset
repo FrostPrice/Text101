@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: X1. Unfinished
+  m_EditorClassIdentifier: 
+  storyText: "Are you ready to see ending of the story of the Fallen Knight?\r\n\r\nIf
+    it is a Yes then just wait, I have some more plans to use this story  on a future
+    projet ;)\r\nIf it's a No, then please tell here can I improve the narative,
+    and make more fun to play this small game.\r\n\r\nPlease, read the \"Please Read\"
+    in the menu.\n\nThank you for playing the game. \n\n1. Continue "
+  nextStates:
+  - {fileID: 11400000, guid: e3aafa016b01d994696947307d09a9f6, type: 2}

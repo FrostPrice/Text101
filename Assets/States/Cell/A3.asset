@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: 'The guard saw you, and he''s coming for you. He screams demanding you
+    to back off.
+
+
+    You remember him or at least he resembles someone you know.
+    You got to the back off the cell, meanwhile the guard tells you:
+
+
+    "I know
+    what you did, and no one is going to help you, traitor!"
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 3faa2a2d2be87c04681b300416930bd0, type: 2}

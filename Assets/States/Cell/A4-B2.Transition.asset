@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0524e478b6aae642814927149f507d8, type: 3}
+  m_Name: A4-B2.Transition
+  m_EditorClassIdentifier: 
+  storyText: 'You found a loose pipe on the window. You know you''re able to pass
+    through that window and are sneaky enough to leave the prison without no one
+    noticing.
+
+    
+
+    You do that and find yourself in the roofs of the prison.
+
+    
+
+    1.
+    Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 5bf079559c4d233428a284e6b14ae9fe, type: 2}
